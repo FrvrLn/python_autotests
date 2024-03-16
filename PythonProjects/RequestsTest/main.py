@@ -7,7 +7,7 @@ URL = 'https://api.pokemonbattle.me'
 
 HEADER = {
     'Content-Type': 'application/json',
-    'trainer_token': '7595c81f42731deb07123f48d5890be0'
+    'trainer_token': 'YOU_TRAINER_TOKEN'
     }
 
 body1 = {
